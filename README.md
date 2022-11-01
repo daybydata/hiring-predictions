@@ -1,4 +1,4 @@
-# How to Train Your Leviathan
+ # How to Train Your Leviathan
 Machines don't always make the best decisions. The dataset that trains them represents individual decisions based on an array of criteria--some rational and some arbitrary. But human decision-makers are generally biased and only sometimes consistent. And from these instructors, machines can quickly learn to be consistently biased. 
 
 It is the consistency of the algorithm that presents the most significant problem. When one algorithm is adopted widely, and its outputs determine access to opportunities (such as jobs), it becomes an "algorithmic leviathan" capable of doing great societal harm. In the worst-case scenario, an unfair judgment on a person's qualifications propagates across all employers, effectively ending an individual's career. In the realm of ethical AI, it's a problem referred to as Systematicity.
