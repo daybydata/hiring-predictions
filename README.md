@@ -34,8 +34,7 @@ Follow on work to build a functional group of classifiers would include the foll
 * Adding and testing different types of models.
 * Boosting and stacking to improve the performance of the classifiers.
 
-
-Acknolegements: Much of the source code for building decision trees is based on the following source articles.
+Acknowledgments: Much of the source code for building decision trees draws from the following articles.
 * https://carbonati.github.io/posts/random-forests-from-scratch/
 * https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8
 
