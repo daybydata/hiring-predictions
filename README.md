@@ -30,7 +30,7 @@ A final test of Systematicity should confirm that the panel of classifiers does 
 ## Next Steps
 Follow on work to build a functional group of classifiers would include the following:
 * Preprocessing to address the issue of the unbalanced training data.
-* Testing the algorithm with different parameters.
+* Testing the training algorithm with different parameters.
 * Adding and testing different types of models.
 * Boosting and stacking to improve the performance of the classifiers.
 
